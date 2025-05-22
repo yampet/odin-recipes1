@@ -18,7 +18,8 @@
 
 h1 {
     font-size: 2.5rem;
-    margin-bottom: 20px;
+    margin-bottom: 20px
+    font-color: darkred;
 }
 h2 {
     font-size: 2rem;
